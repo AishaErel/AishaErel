@@ -4,7 +4,7 @@ I'm a senior year CS student, who is passionate about creating things that make 
 
 ## Projects:
 
-### AI College Buddy ChatBot Mobile App
+### AI CollegeBuddy ChatBot Mobile App
 Currently building a mobile chatbot app using Flutter and integrating it with AWS Bedrock (Claude 3)
 
 ### AI Dietary Recommendation App for Lipedema Disease  
@@ -15,7 +15,7 @@ View on GitHub:
 Collaboratively developed a weather prediction model using a Kaggle dataset by implementing outlier detection techniques and applying various machine learning algorithms.
 View on GitHub: https://github.com/AishaErel/Weather_Prediction
 
- ### Recipe Planner, iOS App
+ ### RecipePlanner, iOS App
 Designed an app featuring a collection of my healthy, easy-to-follow recipes, targeted at college students where they can select meals and plan their daily meals using an integrated calendar.
 View on GitHub: https://github.com/AishaErel/RecipePlanner_iOS
 
