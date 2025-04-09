@@ -9,7 +9,7 @@ Currently building a mobile chatbot app using Flutter and integrating it with AW
 
 ### AI Dietary Recommendation App for Lipedema Disease  
 Developed a Streamlit-based AI web application that identifies fruits and vegetables from user-uploaded images using a CNN architecture (MobileNetV2) which classify foods as lipedema-safe or not based on medical guidelines. 
-View on GitHub: 
+View on GitHub: https://github.com/AishaErel/AI_Lipedema_Safe_Food_Detection
 
 ###  Weather Prediction Model                    
 Collaboratively developed a weather prediction model using a Kaggle dataset by implementing outlier detection techniques and applying various machine learning algorithms.
