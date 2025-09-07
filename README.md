@@ -4,9 +4,6 @@ I'm a master CS student, who is passionate about creating things that make a pos
 
 ## Projects:
 
-### AI CollegeBuddy ChatBot Mobile App
-Currently building a mobile chatbot app using Flutter and integrating it with AWS Bedrock (Claude 3)
-
 ### AI Classification Model	
 Developed a Streamlit-based AI web application that identifies fruits and vegetables from user-uploaded images using a CNN architecture (MobileNetV2) which classify foods as lipedema-safe or not based on medical guidelines. 
 View on GitHub: https://github.com/AishaErel/AI_Lipedema_Safe_Food_Detection
