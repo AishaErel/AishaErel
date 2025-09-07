@@ -22,3 +22,11 @@ View on GitHub: https://github.com/AishaErel/RecipePlanner_iOS
 ### RecipePlanner, Website 
 Developed a project using React for the front-end and Firebase for the back-end, enabling users to sign in/register, explore recipe ideas, and save meals to a daily planner via an interactive calendar. 
 View on GitHub: https://github.com/AishaErel/RecipePlannerWebsite
+
+## Hackathon Projects
+HackDavis 2025 - Won Best Assistive Technology Award	 April 2025
+Happi - Full Stack WebApp	
+Developed a full-stack web app that builds on existing research by using diagnostic information from a digital SAGE exam and storing user data to help identify individuals at risk for Alzheimer’s Disease. 
+I mainly worked on backend where I used Firebase for user authentication and MongoDB Atlas to store and retrieve user data for real-time visualizations. 
+
+
