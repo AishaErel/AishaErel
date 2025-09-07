@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a senior year CS student, who is passionate about creating things that make a positive impact on people's lives.
+I'm a master CS student, who is passionate about creating things that make a positive impact on people's lives.
 
 ## Projects:
 
