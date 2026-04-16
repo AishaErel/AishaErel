@@ -3,6 +3,10 @@
 I'm a master CS student, who is passionate about creating things that make a positive impact on people's lives.
 
 ## Projects:
+### Healthcare AI Assistant
+
+AI-powered healthcare assistant built with IBM watsonx and IBM Cloudant database, designed to support doctors by providing efficient access to patient records, enabling the creation of new records, and converting consultation notes into structured medical documentation for an IBM Skills Build AI Experimental Lab Spring 2026 Project
+
 
 ### AI Classification Model	
 Developed a Streamlit-based AI web application that identifies fruits and vegetables from user-uploaded images using a CNN architecture (MobileNetV2) which classify foods as lipedema-safe or not based on medical guidelines. 
