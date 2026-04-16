@@ -3,11 +3,11 @@
 I'm a master CS student, who is passionate about creating things that make a positive impact on people's lives.
 
 ## Projects:
-### Healthcare AI Assistant
+### Healthcare AI Assistant (Spring 26)
 
 AI-powered healthcare assistant built with IBM watsonx and IBM Cloudant database, designed to support doctors by providing efficient access to patient records, enabling the creation of new records, and converting consultation notes into structured medical documentation for an IBM Skills Build AI Experimental Lab Spring 2026 Project
 
-### Contactless Authentication with Liveness Detection
+### Contactless Authentication with Liveness Detection (Fall 25)
 
 With the advancement of technology in the biometric field, healthcare facilities are adopting contactless authentication methods to improve security, efficiency, and patient safety. While contactless check-in systems aren’t necessary for every clinic, they can provide additional value in busy clinics where hygiene, efficiency, and accessibility are crucial.
 
