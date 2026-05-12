@@ -1,17 +1,24 @@
 ## Hi there 👋
 
-I'm a master CS student, who is passionate about creating things that make a positive impact on people's lives.
+I'm a master in CS student, who is passionate about creating things that make a positive impact on people's lives.
 
 ## Projects:
 ### Healthcare AI Assistant (Spring 26)
 
-AI-powered healthcare assistant built with IBM watsonx and IBM Cloudant database, designed to support doctors by providing efficient access to patient records, enabling the creation of new records, and converting consultation notes into structured medical documentation for an IBM Skills Build AI Experimental Lab Spring 2026 Project
+AI-powered healthcare assistant built with IBM watsonx and IBM Cloudant database, designed to support doctors by providing efficient access to patient records, enabling the creation of new records, and converting consultation notes into structured medical documentation for an IBM Skills Build AI Experimental Lab Spring 2026 Project. View on Github: https://github.com/AishaErel/healthcare-ai-assistant
+
+### RAG Prompt Injection Defense System (Spring 26)
+Prompt injection occurs when malicious instructions are embedded in retrieved or user-provided content, causing large language models (LLMs) to deviate from intended behavior. This is especially critical in RAG systems where external documents are not fully trusted.
+This project explores security vulnerabilities in Retrieval-Augmented Generation (RAG) systems, specifically prompt injection attacks, and implements a multi-layered defense pipeline as a solution suggestion. View on Github: https://github.com/AishaErel/prompt_injection_experiment
+
+### Randomized Algorithms for Approximate String Matching (Spring 26)
+A research-oriented prototype that explores efficient matching using a two-stage candidate ranking pipeline. The framework first applies lightweight similarity functions to rank candidates cheaply, followed by stronger and more computationally expensive similarity analysis on only the top-k candidates. View on Github: https://github.com/AishaErel/two_stage_matcher/tree/final
 
 ### Contactless Authentication with Liveness Detection (Fall 25)
 
 With the advancement of technology in the biometric field, healthcare facilities are adopting contactless authentication methods to improve security, efficiency, and patient safety. While contactless check-in systems aren’t necessary for every clinic, they can provide additional value in busy clinics where hygiene, efficiency, and accessibility are crucial.
 
-However, current facial authentication systems are vulnerable to spoofing attacks. Our project aims to develop a secure facial recognition system that verifies user identity while maintaining privacy.
+However, current facial authentication systems are vulnerable to spoofing attacks. Our project aims to develop a secure facial recognition system that verifies user identity while maintaining privacy. View on Github: https://github.com/AishaErel/contactless-authentication-liveness-detection
 
 ### AI Classification Model	
 Developed a Streamlit-based AI web application that identifies fruits and vegetables from user-uploaded images using a CNN architecture (MobileNetV2) which classify foods as lipedema-safe or not based on medical guidelines. 
